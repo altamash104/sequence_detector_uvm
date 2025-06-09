@@ -1,2 +1,2 @@
 # sequence_detector_uvm
-This uvm verification of sequence 1101 
+This is uvm verification of sequence 1101 
